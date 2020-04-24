@@ -1,6 +1,6 @@
 # flake8-docstring-checker
 
-Check docstrings in accordance with the rules:
+Check docstrings in accordance with the rules: /n
 
 D101/D102/D103 Missing docstring in public class/method/function., 
 D300 Use triple single quotes., 
